@@ -35,6 +35,10 @@
     "dtoSuffix": "DTO",
     "otherModules": [],
     "enableTranslation": false,
-    "blueprints": []
+    "blueprints": [],
+    "appsFolders": ["dev-presidential-library"],
+    "directoryPath": "../",
+    "monitoring": "elk",
+    "consoleOptions": ["curator"]
   }
 }
